@@ -4,13 +4,15 @@
   "description": "learn node js",
   "main": "index2.js",
   "scripts": {
-    "start": "index2 server "
+    "start": "index2 "
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
     "install": "^0.13.0",
+    "mongoose": "^8.3.1",
+    "nodemon": "^3.1.0",
     "url": "^0.11.3"
   }
 }
